@@ -1,10 +1,6 @@
 ﻿using System.Linq;
 
 List<string> grid = new List<string>();
-//grid.Add("mpxz");
-//grid.Add("abcd");
-//grid.Add("wlmf");
-
 grid.Add("eabcd");
 grid.Add("fghij");
 grid.Add("olkmn");
